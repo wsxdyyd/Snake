@@ -1,3 +1,4 @@
+#Shuxin's snake game
 from kivy.uix.widget import Widget
 from kivy.uix.boxlayout import BoxLayout
 from kivy.graphics import Rectangle
